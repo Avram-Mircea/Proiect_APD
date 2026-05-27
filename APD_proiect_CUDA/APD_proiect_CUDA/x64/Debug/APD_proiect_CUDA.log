@@ -1,0 +1,9 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\Mircea\source\repos\APD_proiect_CUDA>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.2\bin\nvcc.exe" -gencode=arch=compute_75,code=\"sm_75,compute_75\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.2\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.2\include"  -G   --keep-dir APD_proiect_CUDA\x64\Debug  -maxrregcount=0    --machine 64 --compile -cudart hybrid  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/FdAPD_proiect_CUDA\x64\Debug\vc143.pdb" -o C:\Users\Mircea\source\repos\APD_proiect_CUDA\APD_proiect_CUDA\x64\Debug\kernel.cu.obj "C:\Users\Mircea\source\repos\APD_proiect_CUDA\kernel.cu" 
+  kernel.cu
+  tmpxft_00002348_00000000-7_kernel.cudafe1.cpp
+C:\Users\Mircea\source\repos\APD_proiect_CUDA\huffman_alg.h(161): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mircea\source\repos\APD_proiect_CUDA\huffman_alg.h(172): warning C4244: 'initializing': conversion from 'unsigned long' to 'unsigned char', possible loss of data
+C:\Users\Mircea\source\repos\APD_proiect_CUDA\kernel.cu(103): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  APD_proiect_CUDA.vcxproj -> C:\Users\Mircea\source\repos\APD_proiect_CUDA\x64\Debug\APD_proiect_CUDA.exe
