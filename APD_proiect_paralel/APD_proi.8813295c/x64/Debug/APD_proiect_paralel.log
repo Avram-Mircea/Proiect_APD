@@ -1,0 +1,11 @@
+﻿  APD_proiect_paralel.cpp
+C:\Users\Mircea\source\repos\APD_proiect_paralel\huffman_alg.h(161,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'APD_proiect_paralel.cpp')
+  
+C:\Users\Mircea\source\repos\APD_proiect_paralel\huffman_alg.h(172,28): warning C4244: 'initializing': conversion from 'unsigned long' to 'unsigned char', possible loss of data
+  (compiling source file 'APD_proiect_paralel.cpp')
+  
+C:\Users\Mircea\source\repos\APD_proiect_paralel\APD_proiect_paralel.cpp(34,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mircea\source\repos\APD_proiect_paralel\APD_proiect_paralel.cpp(82,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mircea\source\repos\APD_proiect_paralel\APD_proiect_paralel.cpp(135,32): warning C4244: 'initializing': conversion from 'unsigned long' to 'unsigned char', possible loss of data
+  APD_proiect_paralel.vcxproj -> C:\Users\Mircea\source\repos\APD_proiect_paralel\x64\Debug\APD_proiect_paralel.exe
