@@ -1,0 +1,6 @@
+﻿  APD_proiect.cpp
+  huffman_alg.cpp
+C:\Users\Mircea\source\repos\APD_proiect\huffman_alg.cpp(131,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mircea\source\repos\APD_proiect\huffman_alg.cpp(144,28): warning C4244: 'initializing': conversion from 'unsigned long' to 'unsigned char', possible loss of data
+  Generating Code...
+  APD_proiect.vcxproj -> C:\Users\Mircea\source\repos\APD_proiect\x64\Debug\APD_proiect.exe
